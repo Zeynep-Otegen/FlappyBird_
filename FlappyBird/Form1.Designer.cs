@@ -56,11 +56,11 @@
             // scoreText
             // 
             this.scoreText.AutoSize = true;
-            this.scoreText.BackColor = System.Drawing.Color.Transparent;
+            this.scoreText.BackColor = System.Drawing.Color.YellowGreen;
             this.scoreText.Enabled = false;
             this.scoreText.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.scoreText.ForeColor = System.Drawing.Color.Maroon;
-            this.scoreText.Location = new System.Drawing.Point(-5, 498);
+            this.scoreText.Location = new System.Drawing.Point(12, 538);
             this.scoreText.Name = "scoreText";
             this.scoreText.Size = new System.Drawing.Size(169, 38);
             this.scoreText.TabIndex = 2;
@@ -92,7 +92,7 @@
             // ground
             // 
             this.ground.Image = ((System.Drawing.Image)(resources.GetObject("ground.Image")));
-            this.ground.Location = new System.Drawing.Point(-10, 539);
+            this.ground.Location = new System.Drawing.Point(-32, 518);
             this.ground.Name = "ground";
             this.ground.Size = new System.Drawing.Size(936, 112);
             this.ground.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -110,7 +110,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(763, 635);
+            this.ClientSize = new System.Drawing.Size(763, 611);
             this.Controls.Add(this.scoreText);
             this.Controls.Add(this.pipeUp);
             this.Controls.Add(this.ground);
