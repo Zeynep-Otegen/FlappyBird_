@@ -65,7 +65,7 @@
             this.scoreText.Size = new System.Drawing.Size(169, 38);
             this.scoreText.TabIndex = 2;
             this.scoreText.Text = "SCORE:0";
-            this.scoreText.Click += new System.EventHandler(this.scoreText_Click);
+            
             // 
             // pipeUp
             // 
