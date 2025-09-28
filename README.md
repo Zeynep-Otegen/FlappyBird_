@@ -2,7 +2,7 @@
 ## Proje Hakkında
 Bu proje, **C# .NET Framework** kullanılarak geliştirilmiş basit bir **Flappy Bird** oyunudur.  
 Amaç, kuşu borulara çarpmadan olabildiğince uzun süre uçurmaktır.
-- Masaüstü versiyon: https://github.com/Zeynep-Otegen/FlappyBird_/releases/tag/v1.0  (Oyunun zip dosyası buradadır.Windows uyarı verebilir çünkü bu program benim kendi yazdığım ve imzalanmamış bir uygulamadır.More info → Run anyway diyerek çalıştırabilirsiniz.)
+- Masaüstü versiyon: https://github.com/Zeynep-Otegen/FlappyBird_/releases/tag/v1.1  (Oyunun zip dosyası buradadır.Windows uyarı verebilir çünkü bu program benim kendi yazdığım ve imzalanmamış bir uygulamadır.More info → Run anyway diyerek çalıştırabilirsiniz.)
 ## Özellikler
 - Klavyeden boşluk tuşu ile kuşun yukarı hareket etmesi
 - Yerçekimi etkisi ile kuşun aşağı düşmesi
