@@ -28,7 +28,9 @@ namespace FlappyBird
 
         public Form1()
         {
-            InitializeComponent(); 
+            InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.KeyDown += new KeyEventHandler(gameisdown); //space tuşu ile başlatma ve zıplama
 
             
